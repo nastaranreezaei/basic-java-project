@@ -14,6 +14,7 @@ public class MainApp {
 		test.add("Is");
 		test.add("Hello");
 		
+		System.out.println("Gibt alle Elemente ohne Duplikate aus:");
 		test.printAllElements();
 		
 
