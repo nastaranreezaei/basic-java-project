@@ -32,7 +32,7 @@ Is
    javac src/noDuplicates/*.java
 java src/noDuplicates/MainApp
 
-Author: 
+👩‍💻 Author
 Nastaran Rezaei
 Computer Science Student
 Bochum University of Applied Sciences – Germany
